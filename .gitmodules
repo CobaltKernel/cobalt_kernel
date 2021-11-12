@@ -1,0 +1,3 @@
+[submodule "cobalt_boot"]
+	path = cobalt_boot
+	url = https://github.com/CobaltKernel/cobalt_boot.git
