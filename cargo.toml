@@ -1,6 +1,7 @@
 [workspace]
 
 members = [
+    "cobalt",
     "cobalt_boot",
-    "cobalt_core"
+    "cobalt_core",
 ]
