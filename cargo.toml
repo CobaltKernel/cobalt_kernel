@@ -2,4 +2,5 @@
 
 members = [
     "cobalt_boot",
+    "cobalt_core"
 ]
