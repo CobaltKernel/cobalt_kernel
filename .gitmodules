@@ -4,3 +4,6 @@
 [submodule "cobalt_core"]
 	path = cobalt_core
 	url = https://github.com/CobaltKernel/cobalt_core.git
+[submodule "cobalt"]
+	path = cobalt
+	url = https://github.com/CobaltKernel/cobalt.git
